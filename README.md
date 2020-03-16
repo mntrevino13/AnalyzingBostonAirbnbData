@@ -1,4 +1,4 @@
-# AnalyzingBostonAirbnbData
+# Analyzing Boston Airbnb Data
 
 Can we guess what Boston's Airbnb market was like a few years ago? This project is an analysis of Boston's Airbnb data (2016-2017). 
 
@@ -14,7 +14,7 @@ In order to run this project the following packages will need to be installed:
 	
 	• 'matplotlib' version 1.3 or later 
 	
-	• 'seaborn' 
+	• 'seaborn' version 0.10.0 or later
 
 ## Project Motivation
 The goal of this project is to better understand the Airbnb market in Boston during 2016-2017. Through this we were able to gather insights for the following three business questions: 
@@ -37,7 +37,7 @@ One main notebook was used to answer our three business questions. The data sour
 The data sources were gathered from kaggle and can be found here: https://www.kaggle.com/airbnb/boston. 
 
 ## Results
-The findings of this project can be found through this Medium post: *****************
+The findings of this project can be found through this Medium post: 
 
 ## Licensing, Authors, Acknowledgements 
-I would like to give credit to Kaggle for providing the data and Udacity Data Science Nanodegree curriculum for motivation and allowing this project to get done.  
+I would like to give credit to Kaggle for providing the data and Udacity Data Science Nanodegree curriculum for motivation and allowing this project to get done.
