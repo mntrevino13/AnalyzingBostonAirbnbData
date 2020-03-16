@@ -29,14 +29,14 @@ One main notebook was used to answer our three business questions. The data sour
 
 	1. 'listings.csv' - This file contains detailed information about each listing with ~95 different variables
 	
-	2. 'reviews.csv' - This file contains review scores and detailed comments for each listing (please note it was added as a .zip 		file in repository due to large size) 
+	2. 'reviews.csv' - This file contains review scores and detailed comments for each listing (please note it was added as a .zip file in repository due to large size) 
 	
-	3. 'calendar.csv' - This file contains availability and price for that day (please note it was added as a .zip 		file in 	repository due to large size) 
+	3. 'calendar.csv' - This file contains availability and price for that day (please note it was added as a .zip file in repository due to large size) 
 	
 The data sources were gathered from kaggle and can be found here: https://www.kaggle.com/airbnb/boston. 
 
 ## Results
-The findings of this project can be found through this Medium post: 
+The findings of this project can be found through this Medium post: https://medium.com/@mntrevin/can-we-guess-what-bostons-airbnb-market-was-like-a-few-years-ago-e603b3976aa0
 
 ## Licensing, Authors, Acknowledgements 
 I would like to give credit to Kaggle for providing the data and Udacity Data Science Nanodegree curriculum for motivation and allowing this project to get done.
